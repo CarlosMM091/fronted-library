@@ -1,0 +1,47 @@
+/* global.css */
+
+/* Limpiar márgenes y paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estilo global del body */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #e6f0fa; /* Mismo fondo azul clarito */
+    color: #333;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+  
+  /* Estilos generales de contenedores */
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  /* Navbar bonito */
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  /* Hover links */
+  nav a:hover {
+    color: #5d3fd3;
+  }
+  
+  /* Botones más bonitos */
+  button {
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    opacity: 0.9;
+  }
+  

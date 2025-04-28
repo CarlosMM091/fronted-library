@@ -1,0 +1,353 @@
+[
+    {
+      "id": 1,
+      "title": "Harry Potter y la piedra filosofal",
+      "author": "J.K. Rowling",
+      "price": 35000,
+      "isbn": "9788478884452",
+      "genre": "Fantasía",
+      "published": "1997",
+      "image": "https://covers.openlibrary.org/b/id/7984916-L.jpg"
+    },
+    {
+      "id": 2,
+      "title": "El Señor de los Anillos",
+      "author": "J.R.R. Tolkien",
+      "price": 50000,
+      "isbn": "9780618640157",
+      "genre": "Fantasía",
+      "published": "1954",
+      "image": "https://covers.openlibrary.org/b/id/8231998-L.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "price": 28000,
+      "isbn": "9788497592208",
+      "genre": "Realismo Mágico",
+      "published": "1967",
+      "image": "https://covers.openlibrary.org/b/id/8225263-L.jpg"
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 22000,
+      "isbn": "9780451524935",
+      "genre": "Distopía",
+      "published": "1949",
+      "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "price": 25000,
+      "isbn": "9780141439518",
+      "genre": "Romance",
+      "published": "1813",
+      "image": "https://covers.openlibrary.org/b/id/8225543-L.jpg"
+    },
+    {
+      "id": 6,
+      "title": "El Código Da Vinci",
+      "author": "Dan Brown",
+      "price": 30000,
+      "isbn": "9780307474278",
+      "genre": "Thriller",
+      "published": "2003",
+      "image": "https://covers.openlibrary.org/b/id/8315041-L.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Los Juegos del Hambre",
+      "author": "Suzanne Collins",
+      "price": 32000,
+      "isbn": "9780439023481",
+      "genre": "Ciencia Ficción",
+      "published": "2008",
+      "image": "https://covers.openlibrary.org/b/id/8076925-L.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "price": 40000,
+      "isbn": "9788420412141",
+      "genre": "Clásico",
+      "published": "1605",
+      "image": "https://covers.openlibrary.org/b/id/8195431-L.jpg"
+    },
+    {
+      "id": 9,
+      "title": "It",
+      "author": "Stephen King",
+      "price": 45000,
+      "isbn": "9780450411434",
+      "genre": "Terror",
+      "published": "1986",
+      "image": "https://covers.openlibrary.org/b/id/8228781-L.jpg"
+    },
+    {
+      "id": 10,
+      "title": "El Alquimista",
+      "author": "Paulo Coelho",
+      "price": 27000,
+      "isbn": "9780061122415",
+      "genre": "Fábula",
+      "published": "1988",
+      "image": "https://covers.openlibrary.org/b/id/8221474-L.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Crónica de una muerte anunciada",
+      "author": "Gabriel García Márquez",
+      "price": 24000,
+      "isbn": "9780307387172",
+      "genre": "Realismo Mágico",
+      "published": "1981",
+      "image": "https://covers.openlibrary.org/b/id/8232241-L.jpg"
+    },
+    {
+      "id": 12,
+      "title": "El Principito",
+      "author": "Antoine de Saint-Exupéry",
+      "price": 19000,
+      "isbn": "9780156012195",
+      "genre": "Infantil",
+      "published": "1943",
+      "image": "https://covers.openlibrary.org/b/id/8235111-L.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Matar a un ruiseñor",
+      "author": "Harper Lee",
+      "price": 26000,
+      "isbn": "9780060935467",
+      "genre": "Drama",
+      "published": "1960",
+      "image": "https://covers.openlibrary.org/b/id/8217891-L.jpg"
+    },
+    {
+      "id": 14,
+      "title": "La sombra del viento",
+      "author": "Carlos Ruiz Zafón",
+      "price": 34000,
+      "isbn": "9788408172175",
+      "genre": "Misterio",
+      "published": "2001",
+      "image": "https://covers.openlibrary.org/b/id/8256749-L.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Juego de Tronos",
+      "author": "George R.R. Martin",
+      "price": 55000,
+      "isbn": "9780553593716",
+      "genre": "Fantasía",
+      "published": "1996",
+      "image": "https://covers.openlibrary.org/b/id/7984919-L.jpg"
+    },
+    {
+    "id": 16,
+    "title": "La sombra del viento",
+    "author": "Carlos Ruiz Zafón",
+    "price": 34000,
+    "isbn": "9788408172175",
+    "genre": "Misterio",
+    "published": "2001",
+    "image": "https://covers.openlibrary.org/b/id/8256749-L.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Juego de Tronos",
+    "author": "George R.R. Martin",
+    "price": 55000,
+    "isbn": "9780553593716",
+    "genre": "Fantasía",
+    "published": "1996",
+    "image": "https://covers.openlibrary.org/b/id/7984919-L.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Breve historia del tiempo",
+    "author": "Stephen Hawking",
+    "price": 40000,
+    "isbn": "9780553380163",
+    "genre": "Ciencia",
+    "published": "1988",
+    "image": "https://covers.openlibrary.org/b/id/8222261-L.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Los pilares de la Tierra",
+    "author": "Ken Follett",
+    "price": 47000,
+    "isbn": "9780451166890",
+    "genre": "Histórico",
+    "published": "1989",
+    "image": "https://covers.openlibrary.org/b/id/8281995-L.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Crónica de una muerte anunciada",
+    "author": "Gabriel García Márquez",
+    "price": 24000,
+    "isbn": "9780307387172",
+    "genre": "Realismo Mágico",
+    "published": "1981",
+    "image": "https://covers.openlibrary.org/b/id/8232241-L.jpg"
+  },
+  {
+    "id": 21,
+    "title": "El retrato de Dorian Gray",
+    "author": "Oscar Wilde",
+    "price": 26000,
+    "isbn": "9780486278070",
+    "genre": "Clásico",
+    "published": "1890",
+    "image": "https://covers.openlibrary.org/b/id/8226531-L.jpg"
+  },
+  {
+    "id": 22,
+    "title": "La ladrona de libros",
+    "author": "Markus Zusak",
+    "price": 38000,
+    "isbn": "9780375842207",
+    "genre": "Drama",
+    "published": "2005",
+    "image": "https://covers.openlibrary.org/b/id/8091981-L.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Los hombres me explican cosas",
+    "author": "Rebecca Solnit",
+    "price": 29000,
+    "isbn": "9781847088897",
+    "genre": "Ensayo",
+    "published": "2014",
+    "image": "https://covers.openlibrary.org/b/id/8235131-L.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Las ventajas de ser invisible",
+    "author": "Stephen Chbosky",
+    "price": 27000,
+    "isbn": "9781451696196",
+    "genre": "Juvenil",
+    "published": "1999",
+    "image": "https://covers.openlibrary.org/b/id/8236906-L.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Cazadores de sombras",
+    "author": "Cassandra Clare",
+    "price": 33000,
+    "isbn": "9781442409473",
+    "genre": "Fantasía",
+    "published": "2007",
+    "image": "https://covers.openlibrary.org/b/id/8228224-L.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Un mundo feliz",
+    "author": "Aldous Huxley",
+    "price": 23000,
+    "isbn": "9780060850524",
+    "genre": "Ciencia Ficción",
+    "published": "1932",
+    "image": "https://covers.openlibrary.org/b/id/8084608-L.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "price": 45000,
+    "isbn": "9788432223847",
+    "genre": "Realismo Mágico",
+    "published": "1963",
+    "image": "https://covers.openlibrary.org/b/id/8274069-L.jpg"
+  },
+  {
+    "id": 28,
+    "title": "La casa de los espíritus",
+    "author": "Isabel Allende",
+    "price": 37000,
+    "isbn": "9788408052453",
+    "genre": "Realismo Mágico",
+    "published": "1982",
+    "image": "https://covers.openlibrary.org/b/id/8235789-L.jpg"
+  },
+  {
+    "id": 29,
+    "title": "El Hobbit",
+    "author": "J.R.R. Tolkien",
+    "price": 42000,
+    "isbn": "9780261102217",
+    "genre": "Fantasía",
+    "published": "1937",
+    "image": "https://covers.openlibrary.org/b/id/8231407-L.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Anna Karenina",
+    "author": "León Tolstói",
+    "price": 36000,
+    "isbn": "9780143035008",
+    "genre": "Clásico",
+    "published": "1877",
+    "image": "https://covers.openlibrary.org/b/id/8225602-L.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Bajo la misma estrella",
+    "author": "John Green",
+    "price": 28000,
+    "isbn": "9780142424179",
+    "genre": "Juvenil",
+    "published": "2012",
+    "image": "https://covers.openlibrary.org/b/id/8231456-L.jpg"
+  },
+  {
+    "id": 32,
+    "title": "It (Eso)",
+    "author": "Stephen King",
+    "price": 45000,
+    "isbn": "9780450411434",
+    "genre": "Terror",
+    "published": "1986",
+    "image": "https://covers.openlibrary.org/b/id/8228781-L.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Carrie",
+    "author": "Stephen King",
+    "price": 27000,
+    "isbn": "9780307743661",
+    "genre": "Terror",
+    "published": "1974",
+    "image": "https://covers.openlibrary.org/b/id/8228779-L.jpg"
+  },
+  {
+    "id": 34,
+    "title": "La Odisea",
+    "author": "Homero",
+    "price": 25000,
+    "isbn": "9780140268867",
+    "genre": "Clásico",
+    "published": "800 A.C.",
+    "image": "https://covers.openlibrary.org/b/id/8227756-L.jpg"
+  },
+  {
+    "id": 35,
+    "title": "La Metamorfosis",
+    "author": "Franz Kafka",
+    "price": 21000,
+    "isbn": "9780805210576",
+    "genre": "Clásico",
+    "published": "1915",
+    "image": "https://covers.openlibrary.org/b/id/8228232-L.jpg"
+  }
+]
+  
